@@ -1,0 +1,1 @@
+default["chef-swap-create"]["size"] = 1024
